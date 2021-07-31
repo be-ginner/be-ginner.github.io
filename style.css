@@ -16,6 +16,9 @@ article{
   flex:3; 
 }
 
+img{
+  justify-content: center; 
+}
 
 a{
  color:yellow;
