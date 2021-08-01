@@ -7,6 +7,8 @@ body{
 main{
   display: flex;
   flex:auto;
+  border-style:solid;
+  border: 5px solid black;
 }
 
 aside{
