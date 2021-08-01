@@ -8,14 +8,17 @@ body{
 main{
   display: flex;
   flex:auto;
+  border-style:solid;
 }
 
 aside{
   flex:1; 
+  border-style:solid;
 }
 
 article{
   flex:3; 
+  border-style:solid;
 }
 
 
