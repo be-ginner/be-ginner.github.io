@@ -1,27 +1,27 @@
 body{
   display: flex;
   flex-direction:column;
-  border-style:solid;
   border: 5px solid black;
+  border-radius: 5px;
 }
 
 main{
   display: flex;
   flex:auto;
-  border-style:solid;
   border: 5px solid black;
+  border-radius: 5px;
 }
 
 aside{
   flex:1; 
-  border-style:solid;
   border: 5px solid black;
+  border-radius: 5px;
 }
 
 article{
   flex:3; 
-  border-style:solid;
-  border-width: 5px;
+  border: 5px solid black;
+  border-radius: 5px;
 }
 
 
