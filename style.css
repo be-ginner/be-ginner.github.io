@@ -41,7 +41,7 @@ p{
   letter-spacing: 2px;
   line-height: 1.8;
 }
-footer{display: flex;border: 2px solid black;background:#E6E6FA;font-style:italic;
+footer{display: flex;border: 2px solid black;font-style:italic;
 font-weight:bold;
 font-size:35px;
 line-height:35px;
