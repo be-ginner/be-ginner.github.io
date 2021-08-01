@@ -35,3 +35,7 @@ a{
 a:hover{
  color:blue; 
 }
+
+p{
+ font-family: fantasy;
+}
